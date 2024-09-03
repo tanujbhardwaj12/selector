@@ -1,0 +1,19 @@
+a:link{
+    color: rgb(255, 234, 0);
+}
+a:visited{
+    color: sienna;
+}
+a:hover{
+    color:violet;
+}
+a:active{
+    color: rgb(43, 226, 52);
+}
+footer a:link{
+    color: blue;
+}
+
+    
+
+

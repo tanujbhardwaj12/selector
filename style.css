@@ -1,3 +1,15 @@
-div ~ p{
+ /* div~p {
     background-color: blue;
-}
+}  */
+
+/* div p {
+    background-color: blueviolet;
+} */
+
+/* div>p {
+    background-color: orange;
+} */
+
+/* div+p {
+    background-color: red;
+}  */
